@@ -38,7 +38,7 @@
     "@pact-foundation/pact-web": "7.4.0",
     "@skyux-sdk/builder": "3.5.3",
     "@skyux-sdk/builder-plugin-skyux": "1.0.0-rc.6",
-    "@skyux-sdk/e2e": "3.1.1",
+    "@skyux-sdk/e2e": "3.1.2",
     "@skyux-sdk/pact": "3.2.0",
     "@skyux-sdk/testing": "3.1.0",
     "@skyux/animations": "3.0.0",
