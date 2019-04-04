@@ -4,7 +4,7 @@ import {
 
 @Injectable()
 export class MyLibraryService {
-  public sayGoodbye(): void {
-    alert('Goodbye!');
+  public sayGoodbye(): string {
+    return 'Goodbye!';
   }
 }
