@@ -2,7 +2,6 @@
   "$schema": "./node_modules/@skyux/config/skyuxconfig-schema.json",
   "mode": "easy",
   "compileMode": "aot",
-  "codeCoverageThreshold": "standard",
   "plugins": [
     "@skyux-sdk/builder-plugin-skyux"
   ],
