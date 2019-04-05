@@ -38,6 +38,8 @@ describe('LibrarySampleComponent', () => {
 
   it('should pass accessibility', async(() => {
     fixture.detectChanges();
-    expect(fixture.nativeElement).toBeAccessible();
+    fixture.whenStable().then(() => {
+      expect(fixture.nativeElement).toBeAccessible();
+    });
   }));
 });

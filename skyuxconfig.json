@@ -2,13 +2,17 @@
   "$schema": "./node_modules/@skyux/config/skyuxconfig-schema.json",
   "mode": "easy",
   "compileMode": "aot",
-  "codeCoverageThreshold": "strict",
   "plugins": [
     "@skyux-sdk/builder-plugin-skyux"
   ],
   "appSettings": {
     "myLibrary": {
       "name": "My Library"
+    }
+  },
+  "testSettings": {
+    "unit": {
+      "browserSet": "paranoid"
     }
   }
 }
