@@ -1,7 +1,7 @@
 {
   "name": "blackbaud-skyux-lib-rrrrr-lib-name",
   "version": "0.0.1",
-  "description": "SKYUX rrrrr-lib-name library",
+  "description": "SKY UX rrrrr-lib-name library",
   "main": "bundles/bundle.umd.js",
   "module": "index.ts",
   "scripts": {
