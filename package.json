@@ -7,7 +7,7 @@
   "scripts": {
     "build": "skyux build-public-library",
     "test": "skyux test --coverage library",
-    "test:watch": "skyux watch --coverage library",
+    "watch": "skyux watch --coverage library",
     "start": "skyux serve",
     "e2e": "skyux e2e",
     "pact": "skyux pact",
