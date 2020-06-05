@@ -4,7 +4,7 @@ import {
 
 import {
   MyLibrarySampleModule
-} from './public';
+} from './public/public_api';
 
 @NgModule({
   exports: [
