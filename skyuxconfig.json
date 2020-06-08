@@ -12,7 +12,7 @@
   ],
   "testSettings": {
     "unit": {
-      "browserSet": "paranoid"
+      "browserSet": "speedy"
     }
   },
   "host": {
