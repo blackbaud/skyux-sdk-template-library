@@ -21,6 +21,7 @@ yarn.lock
 .skyuxtmp
 .skypageslocales
 .skypagestmp
+screenshots-baseline-local
 
 # SKY UX build directory
 dist
