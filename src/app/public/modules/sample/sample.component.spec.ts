@@ -33,7 +33,7 @@ describe('LibrarySampleComponent', () => {
 
   it('should output the name from config', () => {
     fixture.detectChanges();
-    expect(component.appSettings.myLibrary.name).toBe('Invalid.');
+    expect(component.appSettings.myLibrary.name).toBe('My Library');
   });
 
   it('should pass accessibility', async(() => {
