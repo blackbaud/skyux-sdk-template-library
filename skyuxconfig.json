@@ -15,7 +15,7 @@
       "browserSet": "speedy"
     },
     "unit": {
-      "browserSet": "speedy"
+      "browserSet": "paranoid"
     }
   },
   "host": {
