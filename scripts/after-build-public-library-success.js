@@ -1,0 +1,1 @@
+console.log('AFTER BUILD PUBLIC LIBRARY SUCCESS!');
