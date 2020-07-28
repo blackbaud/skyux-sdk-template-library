@@ -1,1 +1,1 @@
-console.log('AFTER BUILD PUBLIC LIBRARY SUCCESS!');
+console.log(`The 'after-build-public-library-success' script was successfully run. Current working directory: ${process.cwd()}`);
