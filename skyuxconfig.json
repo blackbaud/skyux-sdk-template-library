@@ -18,6 +18,15 @@
       "browserSet": "paranoid"
     }
   },
+  "pipelineSettings": {
+    "gh-actions": {
+      "testSettings": {
+        "unit": {
+          "browserSet": false
+        }
+      }
+    }
+  },
   "host": {
     "frameOptions": {
       "none": true
