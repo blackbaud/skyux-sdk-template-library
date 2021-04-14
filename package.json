@@ -36,7 +36,6 @@
     "@angular/router": "9.1.13",
     "@blackbaud/auth-client": "2.45.0",
     "@skyux-sdk/builder": "4.7.2",
-    "@skyux-sdk/builder-code-formatter": "github:blackbaud/skyux-sdk-builder-code-formatter",
     "@skyux-sdk/builder-plugin-skyux": "4.1.4",
     "@skyux-sdk/e2e": "4.0.1",
     "@skyux-sdk/testing": "4.2.3",
